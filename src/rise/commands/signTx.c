@@ -3,6 +3,7 @@
 //
 
 #include "signTx.h"
+#include "cx.h"
 #include "../../io.h"
 #include "../dposutils.h"
 #include "./txs/sendTx.h"
